@@ -40,12 +40,29 @@ header nav ul li a {
     font-size: 22px;
 }
 
+.collapsible {
+    background-color: grey;
+    color: yellow;
+    cursor: pointer;
+    padding: 20px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+}
+
 .background {
     padding: 0 18px;
     display: none;
     overflow: hidden;
-    background-color: yellow;
+    background-color: red;
 }
+
+.active, .collapsible:hover {
+    background-color: #555;
+}
+
 
 footer {
     background: red;
