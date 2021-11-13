@@ -40,6 +40,11 @@ header nav ul li a {
     font-size: 22px;
 }
 
+.about-me {
+    display:flex;
+    flex-wrap: nowrap;
+}
+
 .collapsible {
     background-color: grey;
     color: yellow;
