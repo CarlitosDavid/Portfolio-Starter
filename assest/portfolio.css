@@ -40,6 +40,10 @@ header nav ul li a {
     font-size: 22px;
 }
 
+header h1 {
+    color: whitesmoke;
+}
+
 .about-me {
     display:flex;
     flex-wrap: nowrap;
@@ -94,6 +98,7 @@ header nav ul li a {
     color: whitesmoke;
     float: left;
     text-align: center;
+    flex-direction: column;
 }
 
 .run-buddy-snap img {
@@ -108,12 +113,24 @@ header nav ul li a {
     color: whitesmoke;
     float: right;
     text-align: center;
+    flex-direction: column;
+}
+
+.calculator {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: gold;
+    color: whitesmoke;
+    float: left;
+    text-align: center;
+    flex-direction: column;
 }
 
 footer {
     background: red;
     width: 100%;
-    padding: 40px 35px;
+    padding: 50px 5px;
 }
 
 footer div ul li {
@@ -129,6 +146,7 @@ footer h2 {
     color: #021305;
     font-size: 30px;
     margin: 0;
+    color: whitesmoke;
 }
 
 footer div {
