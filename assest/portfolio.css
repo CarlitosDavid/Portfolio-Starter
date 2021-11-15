@@ -88,10 +88,10 @@ header h1 {
 }
 
 .projects-container {
-    display: flex;
     align-items: center;
     justify-content: center;
-    border:rgba(0, 0, 0, 0.1)
+    display: inline-block;
+    padding-left: 300px;
 }
 
 .run-buddy-snap {
@@ -100,9 +100,9 @@ header h1 {
     height: 300px;
     background-color: gold;
     color: whitesmoke;
-    float: left;
     text-align: center;
     flex-direction: column;
+    display: inline-block;
     
 }
 
@@ -116,9 +116,9 @@ header h1 {
     height: 300px;
     background-color: gold;
     color: whitesmoke;
-    float: right;
     text-align: center;
     flex-direction: column;
+    display: inline-block;
 }
 
 .robot-gladitors img {
@@ -132,9 +132,9 @@ header h1 {
     height: 300px;
     background-color: gold;
     color: whitesmoke;
-    float: left;
     text-align: center;
     flex-direction: column;
+    display: inline-block;
 }
 
 .calculator img {
@@ -154,6 +154,7 @@ footer div ul li {
     margin: 0 30px;
     font-size: 22px;
     float: left;
+    
 }
 
 
@@ -163,6 +164,7 @@ footer h2 {
     font-size: 30px;
     margin: 0;
     color: whitesmoke;
+   
 }
 
 footer div {
