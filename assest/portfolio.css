@@ -13,8 +13,16 @@ body {
 
 
 header {
-    padding: 40px 100px;
+    padding: 20px 100px;
     background-color: red;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
 }
 
 header a {
@@ -73,21 +81,17 @@ header h1 {
     background-color: #555;
 }
 
-
-
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-color: whitesmoke;
-    background-position: center;
-    padding-left: 10%;
+.projects {
+    padding: 32px 0;
+    margin-top: 2rem;
+   
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20%;
+.projects-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border:rgba(0, 0, 0, 0.1)
 }
 
 .run-buddy-snap {
@@ -99,6 +103,7 @@ header h1 {
     float: left;
     text-align: center;
     flex-direction: column;
+    
 }
 
 .run-buddy-snap img {
@@ -116,6 +121,11 @@ header h1 {
     flex-direction: column;
 }
 
+.robot-gladitors img {
+    max-height: 200px;
+    max-width: 300px;
+}
+
 .calculator {
     margin-bottom: 20px;
     padding: 50px;
@@ -127,10 +137,16 @@ header h1 {
     flex-direction: column;
 }
 
+.calculator img {
+    max-height: 200px;
+    max-width: 300px;
+}
+
 footer {
     background: red;
     width: 100%;
     padding: 50px 5px;
+    position: bottom;
 }
 
 footer div ul li {
