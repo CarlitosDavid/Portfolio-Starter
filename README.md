@@ -11,6 +11,7 @@
 ##CSS
 
     code for CSS are blane and need improvement. basic structure 
+    added css style in order to keep project section in line.
     
 ##Javascript
 
