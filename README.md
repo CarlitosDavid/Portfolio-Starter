@@ -1,3 +1,4 @@
+
 # Portfolio-Starter
 
     Created a portfolio to start tracking my progress through coding bootcamp. 
@@ -19,5 +20,4 @@
     
     ##Installation. 
     
-        Url for application: 
-    https://carlitosdavid.github.io/Portfolio-Starter/
+        Url for application: https://carlitosdavid.github.io/Portfolio-Starter/
