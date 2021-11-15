@@ -12,6 +12,7 @@ code for html is basic. use unorded list to structure my projects, header and fo
 
 code for CSS are blane and need improvement. basic structure 
     added css style in order to keep project section in line.
+    added background image to webpage
     
 ## Javascript
 
