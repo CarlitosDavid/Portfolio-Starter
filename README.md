@@ -4,19 +4,20 @@
     this portfolio uses Html, CSS, and Javascript. 
     this project is my second assignment for coding bootcamp
     
-##html
+    ##html
 
-    code for html is basic. use unorded list to structure my projects, header and footer. 
+        code for html is basic. use unorded list to structure my projects, header and footer. 
     
-##CSS
+    ##CSS
 
-    code for CSS are blane and need improvement. basic structure 
+        code for CSS are blane and need improvement. basic structure 
     added css style in order to keep project section in line.
     
-##Javascript
+    ##Javascript
 
-    code for Javascript only used for a collisable button I used for the about me section on the portifolio. 
+        code for Javascript only used for a collisable button I used for the about me section on the portifolio. 
     
-##Installation. 
+    ##Installation. 
     
-    Url for application: https://carlitosdavid.github.io/Portfolio-Starter/
+        Url for application: 
+    https://carlitosdavid.github.io/Portfolio-Starter/
